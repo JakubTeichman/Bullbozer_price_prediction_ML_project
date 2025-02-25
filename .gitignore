@@ -1,0 +1,45 @@
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Python-specific files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Data files
+*.csv
+*.json
+*.xlsx
+*.xls
+*.h5
+*.db
+
+# Ignore all files in the 'data' directory
+data/
